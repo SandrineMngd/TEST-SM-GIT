@@ -5,14 +5,14 @@ Volumes horaires des cours HoC
 2. Algo-Javascript 147 HEURES
 3. Graphisme Web 42 HEURES
 4. Bases de données 105 HEURES
-5. GIT 14 heures
-6. 
-7. 
+5. JAVA 112 HEURES
+6. PHP 182 HEURES
+7. Web Mobile 84 HEURES
 8. 
 9. 
 10. 
 11. 
-12. 
+12.
 13. 
 14. 
 15. 
